@@ -1,6 +1,6 @@
 # Order & Payment Audit System
-
-A React-based web application to verify order IDs and check payment audit status in real time.
+A React-based web application that allows users to verify order IDs and track payment audit status in real time.
+Designed to improve transparency and quickly detect failed or pending transactions.
 
 ## Run Locally
 
@@ -14,5 +14,7 @@ A React-based web application to verify order IDs and check payment audit status
    http://localhost:5173/
 
 ## Tech Stack
-
-React • TypeScript • Tailwind CSS • Vite
+React (Frontend)
+TypeScript
+Tailwind CSS
+Vite
