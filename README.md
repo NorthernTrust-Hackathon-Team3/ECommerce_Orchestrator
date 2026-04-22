@@ -19,7 +19,7 @@ TypeScript
 Tailwind CSS
 Vite
 
-## ✨ Features
+##  Features
 
 -  Order ID verification system
 -  Real-time payment status tracking
