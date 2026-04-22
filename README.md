@@ -18,3 +18,11 @@ React (Frontend)
 TypeScript
 Tailwind CSS
 Vite
+
+## ✨ Features
+
+-  Order ID verification system
+-  Real-time payment status tracking
+-  Simulated API with dynamic responses
+-  Clean UI using Tailwind CSS
+-  Built with React + TypeScript + Vite
